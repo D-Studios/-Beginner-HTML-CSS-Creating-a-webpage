@@ -1,4 +1,4 @@
 # Group 1
 User-agent: Googlebot
-Disallow: /Website.html
+Disallow: /index.html
 
